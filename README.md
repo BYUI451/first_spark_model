@@ -1,5 +1,3 @@
-# first_spark_model
-
 ## Article ##
 
 https://towardsdatascience.com/your-first-apache-spark-ml-model-d2bb82b599dd
